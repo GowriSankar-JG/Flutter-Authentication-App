@@ -1,6 +1,6 @@
 # flutter_auth_app
 
-A new Flutter application.
+Authenticate using Google, Email/Password and Phone in Flutter (Template). 
 
 ## Getting Started
 
