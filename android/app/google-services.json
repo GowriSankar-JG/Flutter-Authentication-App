@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "335372846362",
+    "project_id": "baymax---healthcare-assi-8bbef",
+    "storage_bucket": "baymax---healthcare-assi-8bbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335372846362:android:f2fd319a719a2fd85a58a3",
+        "android_client_info": {
+          "package_name": "com.moonpie.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335372846362-2si6701mrpkm0994dcdp9c3ilcr69li8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moonpie.doctor_appointment",
+            "certificate_hash": "3b9e0cf4def58f75f79360241741a0375c1e2a7d"
+          }
+        },
+        {
+          "client_id": "335372846362-34a5903ec4ensh9ikaksbvfqf0qaooqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruht0YUfFUoglVN8H6LlKhZKBBgFmb1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335372846362-34a5903ec4ensh9ikaksbvfqf0qaooqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335372846362:android:bb0a6877945d57b15a58a3",
+        "android_client_info": {
+          "package_name": "com.moonpie.flutter_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335372846362-i54qri4uteb0roj80mo3iv2cqsq030ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moonpie.flutter_auth_app",
+            "certificate_hash": "3b9e0cf4def58f75f79360241741a0375c1e2a7d"
+          }
+        },
+        {
+          "client_id": "335372846362-34a5903ec4ensh9ikaksbvfqf0qaooqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruht0YUfFUoglVN8H6LlKhZKBBgFmb1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335372846362-34a5903ec4ensh9ikaksbvfqf0qaooqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
